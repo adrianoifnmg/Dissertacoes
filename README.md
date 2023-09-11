@@ -6,7 +6,7 @@
 
 **Especialização Lato Sensu em Redes de Computadores - ESAB (2011)**
 <br />
-*Otimização de REdes WAN por meio do Protocolo MPLS*
+*Otimização de Redes WAN por meio do Protocolo MPLS*
 
 **Bacharelado em Sistemas de Informação - Unimontes (2008)**
 <br />
